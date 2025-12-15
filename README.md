@@ -44,5 +44,5 @@ Swagger UI is integrated into this project to provide interactive API documentat
 
 Swagger is configured using **SpringDoc OpenAPI**.
 
-### 🔗 Access Swagger UI
+### 🔗 Access Swagger UI http://localhost:9090/swagger-ui/index.html
 
